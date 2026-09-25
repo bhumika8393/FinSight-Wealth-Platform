@@ -73,4 +73,5 @@ FinSight-Wealth-Platform
 
 ## Current Status
 
-✅ Milestone 1 – Repository Setup and Architecture Design
+- ✅ Milestone 1 – Repository Setup and Architecture Design
+- ✅ Milestone 2 – Data Pipeline + Baseline Model
